@@ -1,0 +1,26 @@
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/job_data.csv
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.deps.json
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.runtimeconfig.json
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.runtimeconfig.dev.json
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.dll
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.pdb
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.csprojAssemblyReference.cache
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.AssemblyInfoInputs.cache
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.AssemblyInfo.cs
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.csproj.CoreCompileInputs.cache
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.dll
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.pdb
+/Users/mymac/Desktop/Csharp-Practice-chapter1-Hello W0rld/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.genruntimeconfig.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/job_data.csv
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.deps.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.runtimeconfig.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.runtimeconfig.dev.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.dll
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp3.1/TechJobsConsole.pdb
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.csprojAssemblyReference.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.AssemblyInfoInputs.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.AssemblyInfo.cs
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.csproj.CoreCompileInputs.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.dll
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.pdb
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp3.1/TechJobsConsole.genruntimeconfig.cache
