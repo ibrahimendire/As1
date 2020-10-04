@@ -1,1 +1,1 @@
-# As1
+Assignment #1: Tech Jobs (Console Edition)
