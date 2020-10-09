@@ -15,8 +15,9 @@ namespace TechJobsConsole
         {
             LoadData();
 
-            Console.WriteLine(AllJobs);
-            return AllJobs;
+            
+            return AllJobs.GetRange(0, AllJobs.Count);
+           
 
         }
 
@@ -146,10 +147,29 @@ namespace TechJobsConsole
             valueBuilder.Clear();
 
             return rowValues.ToArray();
+
+
         }
-        public static void FindByValue()
+        public static List<Dictionary<string, string>> FindByValue(string value)
         {
-            Console.WriteLine(AllJobs);
+            LoadData();
+
+            List<Dictionary<string, string>> jobs = new List<Dictionary<string, string>>();
+
+            foreach (Dictionary<string, string> row in AllJobs)
+            {
+                foreach (var key in row.Keys)
+                {
+                    if (row[key].ToLower().Contains(value))
+                    {
+                        jobs.Add(row);
+                        break;
+                    }
+                }
+            }
+
+            return jobs;
         }
+
     }
 }
