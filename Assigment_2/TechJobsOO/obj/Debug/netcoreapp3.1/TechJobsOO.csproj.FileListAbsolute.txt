@@ -1,0 +1,12 @@
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.csprojAssemblyReference.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.AssemblyInfoInputs.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.AssemblyInfo.cs
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.csproj.CoreCompileInputs.cache
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/bin/Debug/netcoreapp3.1/TechJobsOO.deps.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/bin/Debug/netcoreapp3.1/TechJobsOO.runtimeconfig.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/bin/Debug/netcoreapp3.1/TechJobsOO.runtimeconfig.dev.json
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/bin/Debug/netcoreapp3.1/TechJobsOO.dll
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/bin/Debug/netcoreapp3.1/TechJobsOO.pdb
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.dll
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.pdb
+/Users/mymac/Desktop/Unit 2 CSharp/Csharp-Assignment/csharp-web-dev-techjobs-oo/TechJobsOO/obj/Debug/netcoreapp3.1/TechJobsOO.genruntimeconfig.cache
